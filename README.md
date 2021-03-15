@@ -1,5 +1,4 @@
 # cecs105
-<!DOCTYPE html>
 <html lang="en">
  <head>
  <title> CECS105 Spring 2021 </title>
