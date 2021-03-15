@@ -1,4 +1,9 @@
 # cecs105
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+  <title>CECS105Spring 201</title>
+ </head>
  <body>
   <h1>Hello World!! </h1>
   <h3> It's Elizabeth Cruz Garcia </h3>
